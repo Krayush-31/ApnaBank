@@ -1,0 +1,87 @@
+{
+  "button1": "Accounts",
+  "button2": "Deposits",
+  "button3": "Loans",
+  "button4": "Wealth&Insure",
+  "button5": "Payments",
+  "button6": "Cards",
+  "button1heading": "IDFC First Bank Account",
+  "button1heading2": "View All Accounts",
+  "button2heading": "IDFC First Bank Deposits",
+  "button2heading2": "View All Deposits",
+  "button3heading": "IDFC First Bank Loans",
+  "button3heading2": "View All Loans",
+  "button4heading": "IDFC First Bank Wealth & Insure",
+  "button4heading2": "View All  Wealth & Insure",
+  "button5heading": "IDFC First Bank Payments",
+  "button5heading2": "View All Payments",
+  "button6heading": "IDFC First Bank Cards",
+  "button6heading2": "View All Cards",
+
+  "menuItems": [
+    { "text": "Savings Account", "href": "/option1" },
+    { "text": "Corporate Salary Account", "href": "/option2" },
+    { "text": "Senior Citizen Savings Account", "href": "/option3" },
+    { "text": "First Power Account", "href": "/option3" },
+    { "text": "Current Account", "href": "/option3" },
+    { "text": "NRI Savings Account", "href": "/option3" },
+    { "text": "TASC Institutional Account", "href": "/option3" },
+    { "text": "Savings Account Interest Calculator", "href": "/option3" }
+  ],
+  "menuItems2": [
+    { "text": "Fixed Deposits", "href": "/option1" },
+    { "text": "Recurring Deposits", "href": "/option2" },
+    { "text": "NRI Fixed Deposits", "href": "/option3" },
+    { "text": "Safe Deposit Calculator", "href": "/option3" },
+    { "text": "FD Calculator", "href": "/option3" },
+    { "text": "RD Calculator", "href": "/option3" }
+  ],
+  "menuItems3": [
+    { "text": "Personal Loan", "href": "/option1" },
+    { "text": "Consumer Durable Loans", "href": "/option2" },
+    { "text": "Home Loans", "href": "/option3" },
+    { "text": "Business Loans", "href": "/option3" },
+    { "text": "Professional Loans", "href": "/option3" },
+    { "text": "Educational Loans", "href": "/option3" },
+    { "text": "New Car Loans", "href": "/option3" },
+    { "text": "Pre owned car Loans", "href": "/option3" },
+    { "text": "2-wheeler Loans", "href": "/option3" }
+  ],
+  "menuItems4": [
+    { "text": "FIRST Select", "href": "/option1" },
+    { "text": "FIRST Wealth", "href": "/option2" },
+    { "text": "FIRST Private", "href": "/option3" },
+    { "text": "Mutual Funds", "href": "/option3" },
+    { "text": "Sovereign Gold Bond", "href": "/option3" },
+    { "text": "Demat & Trading Account", "href": "/option3" },
+    { "text": "Term Insurance", "href": "/option3" },
+    { "text": "Health Insurance", "href": "/option3" },
+    { "text": "Life Insurance", "href": "/option3" }
+  ],
+  "menuItems5": [
+    { "text": "Fast Tag", "href": "/option1" },
+    { "text": "Credit Card Bill Payments", "href": "/option2" },
+    { "text": "UPI", "href": "/option3" },
+    { "text": "Funds Transfer", "href": "/option3" },
+    { "text": "Forex Services", "href": "/option3" },
+    { "text": "Pay Loan EMI", "href": "/option3" }
+  ],
+  "menuItems6": [
+    { "text": "ASHVA: Metal Credit Card", "href": "/option1" },
+    { "text": "Mayura : Metal Credit Card", "href": "/option2" },
+    { "text": "FIRST Millenia Credit Card", "href": "/option3" },
+    { "text": "FIRST CLASSIC Credit Card", "href": "/option3" },
+    { "text": "FIRST SELECT Credit Card", "href": "/option3" },
+    { "text": "FIRST WEALTH Credit Card", "href": "/option3" },
+    { "text": "FIRST WOW Credit Card", "href": "/option3" },
+    { "text": "FOREX Card", "href": "/option3" },
+    { "text": "Deals", "href": "/option3" },
+    { "text": "Debit Cards", "href": "/option3" },
+    { "text": "Co-Branded Cards", "href": "/option3" },
+    { "text": "Credit Card EMI Calculator", "href": "/option3" },
+    { "text": "FIRST CORPORATE Credit Cards", "href": "/optiCon3" },
+    { "text": "FIRST PURCHASE Credit Cards", "href": "/option3" },
+    { "text": "FIRST BUSINESS Credit Cards", "href": "/option3" }
+   
+  ]
+}

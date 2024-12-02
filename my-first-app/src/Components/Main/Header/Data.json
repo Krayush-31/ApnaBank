@@ -1,0 +1,65 @@
+{
+
+    "heading":"APNA BANK OF INDIA",
+    "logoAltText":"Bank Logo",
+    "buttonTitle":"Personal",
+    "buttonTitle2":"About Us",
+    "buttonTitle3":"Investors",
+    "buttonTitle4":"Careers",
+    "buttonTitle5":"ESG",
+    "starText":" What's special about us",
+    "headphoneText":"Customer Service",
+    "headphoneText2":"Chat With IRA",
+    "headphoneText3":"Your personal banking assistant",
+    "headphoneText4":"Help Centre",
+    "headphoneText5":"Support topic,Contact us,FAQs and more",
+    "loginText":"Login",
+    "loginText2":"Are you ready for an upgrade?",
+    "loginText3":"Login to the new experience with best features and services",
+    "loginText4":"Login to Internet banking",
+    "loginText5":"For Loan Account",
+    "loginText6":"Pay Loan EMIs",
+    "loginText7":"For Wholesale Account",
+    "loginText8":"Login to Wholesale banking (New Portal)",
+  
+    "menuItems": [
+    { "text": "Personal", "href": "/option1" },
+    { "text": "Credit Card", "href": "/option2" },
+    { "text": "NRI", "href": "/option3" },
+    { "text": "Wealth", "href": "/option3" },
+    { "text": "StartUp Solutions", "href": "/option3" },
+    { "text": "Corporate", "href": "/option3" },
+    { "text": "MSME", "href": "/option3" },
+    { "text": "Gift City", "href": "/option3" }
+  ],
+  "buttonItems1": [
+    { "text": "About the Bank", "href": "/option1" },
+    { "text": "MD & CEO", "href": "/option2" },
+    { "text": "Our History", "href": "/option3" },
+    { "text": "Letter to ShareHolders", "href": "/option3" },
+    { "text": "Board Of Directors", "href": "/option3" },
+    { "text": "Awards and Accolades", "href": "/option3" },
+    { "text": "News Room", "href": "/option3" }
+   
+  ],
+  "buttonItems2": [
+    { "text": "Investors Presentatios FY 2015-16 ", "href": "/option1" },
+    { "text": "Investors Presentatios  FY 2022-23", "href": "/option2" },
+    { "text": "Annual Report 2023-24", "href": "/option3" },
+    { "text": "View All Annual Reports", "href": "/option3" },
+    { "text": "Financial Documents", "href": "/option3" },
+    { "text": "APB First Infrastructure Bond", "href": "/option3" },
+    { "text": "Other Investor Information", "href": "/option3" }
+   
+  ],
+  "buttonItems3": [
+    { "text": "Come work with us ", "href": "/option1" },
+    { "text": "Track Job Application", "href": "/option2" }
+    
+  ],
+  "buttonItems4": [
+    { "text": "CSR Activities", "href": "/option1" },
+    { "text": "APB First Sustainability", "href": "/option2" }
+    
+  ]
+}

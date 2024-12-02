@@ -1,0 +1,105 @@
+{
+    "exploreHeadings": [
+      "Explore Personal Banking",
+      "Explore all Credit Cards",
+      "Explore all NRI",
+      "Explore the Wealth",
+      "Explore all the Startup Solution",
+      "Explore Corporate banking",
+      ["Explore Business banking", "BRAVO (Auto Sweep)"],
+      "Explore Gift City"
+    ],
+    "submenus": {
+      "1": [
+        { "name": "Accounts", "heading": "IDFC First Bank Account" },
+        { "name": "Deposits", "heading": "IDFC First Bank Deposits" },
+        { "name": "Loans", "heading": "IDFC First Bank Loans" },
+        { "name": "Wealth & Insure", "heading": "IDFC First Bank Wealth & Insure" },
+        { "name": "Payments", "heading": "IDFC First Bank Payments" },
+        { "name": "Cards", "heading": "IDFC First Bank Cards" }
+      ],
+      "2": [
+        { "name": "Premium Metal", "heading": "Explore Premium Metal Cards" },
+        { "name": "0% Forex & Travel", "heading": "Explore Forex & Travel" },
+        { "name": "Lifetime Free", "heading": "Explore Lifetime Free Cards" },
+        { "name": "10X Rewards", "heading": "Explore 10X Rewards" },
+        { "name": "UPI Cards", "heading": "Explore UPI Cards" },
+        { "name": "Fuel & Utility", "heading": "Explore Fuel & Utility" },
+        { "name": "Showstopper", "heading": "Explore Showstopper Cards" },
+        { "name": "CreditBuilder", "heading": "Explore Credit Builder" },
+        { "name": "More", "heading": "Explore More Options" }
+      ],
+      "3": [
+        { "name": "NRI Saving Account", "heading": "Explore NRI Saving Accounts" },
+        { "name": "NRI Fixed Deposit", "heading": "Explore NRI Fixed Deposits" },
+        { "name": "FOREX Solution", "heading": "Explore FOREX Solutions" },
+        { "name": "Transfer to NRE", "heading": "Explore Transfer to NRE" }
+      ],
+      "4": [
+        { "name": "NRI Saving Account", "heading": "Explore NRI Saving Accounts" },
+        { "name": "NRI Fixed Deposit", "heading": "Explore NRI Fixed Deposits" },
+        { "name": "FOREX Solution", "heading": "Explore FOREX Solutions" },
+        { "name": "Transfer to NRE", "heading": "Explore Transfer to NRE" }
+      ],
+      "5": [],
+      "6": [
+        { "name": "Corporate Account", "heading": "Explore Corporate Accounts" },
+        { "name": "Cash Management Services", "heading": "Explore Cash Management Services" }
+      ],
+      "7": [
+        { "name": "MSME Account", "heading": "Explore MSME Accounts" },
+        { "name": "Trade Services", "heading": "Explore Trade Services" },
+        { "name": "MSME Loans", "heading": "Explore MSME Loans" },
+        { "name": "MSME Solutions", "heading": "Explore MSME Solutions" }
+      ],
+      "8": []
+    },
+    "menu2": {
+      "1": [
+        "Savings Account",
+        "Corporate Salary Account",
+        "Senior Citizen Saving Accounts",
+        "First Power Account",
+        "NRI Savings Account",
+        "TASC Institutional Account",
+        "Savings Account Interest Calculator"
+      ],
+      "2": [
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account"
+      ],
+      "3": [
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account"
+      ],
+      "4": [
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account"
+      ],
+      "5": [
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account",
+        "IDFC First Bank Account"
+      ]
+    }
+  }
+  

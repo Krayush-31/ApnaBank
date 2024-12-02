@@ -1,0 +1,45 @@
+/* Style the slider track */
+input[type="range"] {
+  -webkit-appearance: none; 
+  appearance: none; /* Removes default appearance in Firefox */
+  background: #9b1c1c; /* Tailwind red-800 (hex value) for track color */
+  height: 2px; /* Adjust height of the track */
+  border-radius: 4px;
+  width: 95%; /* Ensure the slider occupies full width */
+
+}
+
+/* Style the slider thumb for Webkit browsers */
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  background-color: #9b1c1c; /* Tailwind red-800 (hex value) for thumb color */
+  border-radius: 50%;
+  cursor: pointer;
+  margin-top: -8px; /* Adjusts the thumb to be vertically centered */
+}
+
+/* Style for Firefox */
+input[type="range"]::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  background-color: #9b1c1c; /* Tailwind red-800 (hex value) for thumb color */
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+/* Style the track in Webkit browsers */
+input[type="range"]::-webkit-slider-runnable-track {
+  background: #9b1c1c; /* Tailwind red-800 (hex value) for track color */
+  height: 4px;
+  border-radius: 4px;
+}
+
+/* Style the track in Firefox */
+input[type="range"]::-moz-range-track {
+  background: #9b1c1c; /* Tailwind red-800 (hex value) for track color */
+  height: 4px;
+  border-radius: 4px;
+}
