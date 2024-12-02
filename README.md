@@ -20,3 +20,6 @@ Setup Instructions:
 Clone this repository.
 Install dependencies with npm install.
 Run the app locally using npm start.
+
+
+!!UPDATES WILL COME !!
